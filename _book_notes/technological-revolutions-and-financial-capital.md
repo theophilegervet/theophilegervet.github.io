@@ -84,7 +84,7 @@ AI is the foundation of the current paradigm
 
 If we handle it well, it will make humanity a lot more ambitious in all its endeavors in the synergy phase of the wave
 - AI-driven personal computing: personal AI life copilot, coach, co-creator, teacher, friend, therapist
-- AI-driven robotics: robots automating most physical labor, caring for aging populations in homes and hospitals
+- AI-driven robotics: robots automating most physical labor, caring for aging populations and dramatically accelerating the pace of building anything
 - AI-driven research and knowledge creation
   - e.g., in energy, accelerate nuclear fusion development to address global warming
   - e.g., in biology, dramatically extend human healthy lifespan
