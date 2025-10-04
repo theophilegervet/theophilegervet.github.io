@@ -23,11 +23,16 @@ What can we learn from Elon?
 - But always pragmatic
     - Always backtrack to a practical sustainable business: start with upscale Roadster and Model S for Tesla, Starlink for SpaceX, medical applications for disabled people for Neuralink, etc.
     - Blind idealism without grounding in reality gets nothing done
+    - Every business he started was very capital efficient
 
 - Simplify / delete requirements
     - The only true requirements are dictated by the laws of physics
     - Always attach a person’s name to any requirement
     - Delete requirements to the brink of viability - if you don’t add back 10%, you probably didn’t delete enough: stainless steel Starship, Tesla manufacturing lines, Neuralink as a single device, Twitter staff cuts, etc
+
+- Rally the company around the right high-level metric to optimize
+    - SpaceX: dollars per kilogram to orbit
+    - Tesla: deliveries per week
 
 - Cultivate a maniacal sense of urgency
     - Regularly rally the team around quasi impossible objectives: Tesla model 3 "production hell" to ramp up to 5000 units per week, Optimus robot launch, self-driving launch, etc.

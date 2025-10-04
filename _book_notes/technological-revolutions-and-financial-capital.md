@@ -49,6 +49,7 @@ From the perspective of 2002, when the book was written:
 | Electricity, steel & heavy engineering     | 1870s-1910s | USA/Germany overtake Britain            | Steel          | 1893 panic            |
 | Oil, automobile, mass production           | 1910s-1970s | USA, spreading to Europe, Japan         | Oil            | 1929 great depression |
 | Information, computing, software           | 1970s-??    | USA, spreading to Asia, Europe          | Microprocessor | 2000 dotcom bubble    |
+
 <br>
 
 ## Where are we today?
