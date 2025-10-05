@@ -25,15 +25,6 @@ What can we learn from Elon?
     - Blind idealism without grounding in reality gets nothing done
     - Every business he started was very capital efficient
 
-- Simplify / delete requirements
-    - The only true requirements are dictated by the laws of physics
-    - Always attach a person’s name to any requirement
-    - Delete requirements to the brink of viability - if you don’t add back 10%, you probably didn’t delete enough: stainless steel Starship, Tesla manufacturing lines, Neuralink as a single device, Twitter staff cuts, etc
-
-- Rally the company around the right high-level metric to optimize
-    - SpaceX: dollars per kilogram to orbit
-    - Tesla: deliveries per week
-
 - Cultivate a maniacal sense of urgency
     - Regularly rally the team around quasi impossible objectives: Tesla model 3 "production hell" to ramp up to 5000 units per week, Optimus robot launch, self-driving launch, etc.
     - Lead by example: be on the ground with the team working harder than anyone: sleeping in factory and touring lines every day for Tesla, in the jungle next to the launch pad for Starship, etc.
@@ -44,7 +35,26 @@ What can we learn from Elon?
     - On the flip side, great people sometimes burn out and leave. But they also often look back thinking it was the best work of their life
     - Pretty similar to Steve Jobs’ reality distortion field
 
-- Deeply understand engineering fundamentals and get deeply involved in the details
+- Simplify / delete requirements
+    - The only true requirements are dictated by the laws of physics
+    - Always attach a person’s name to any requirement
+    - Delete requirements to the brink of viability - if you don’t add back 10%, you probably didn’t delete enough: stainless steel Starship, Tesla manufacturing lines, Neuralink as a single device, Twitter staff cuts, etc
+
+- Master engineering fundamentals, always dive in the details
     - Time and time again, Elon drives major engineering decisions himself, applying his algorithm to delete requirements: pushing for reusable rockets, stainless steel Starship, vertically integrating Tesla manufacturing, simplifying every detail of the Model 3 production lines, etc.
-    - And regularly working directly with / micro-managing teams on the ground
-    - Also pretty similar to Steve Job's obsessive focus on getting every detail right
+    - Will personally micro-debug with engineers on the ground
+    - Echoes Jobs’s obsession with details
+
+- Personally unblock the bottleneck
+    - The job is to jump onto whatever is the biggest bottleneck today
+    - Collapse layers when needed, work directly with engineers
+    - When no fire is burning, run deep engineering reviews to learn the people and the details
+
+- Set a single north-star metric
+    - SpaceX: dollars per kilogram to orbit
+    - Tesla: deliveries per week
+    - The right clear objective focuses every trade-off and cultivates urgency
+
+- Don’t optimize for being liked (via [Charly](https://www.linkedin.com/in/charlymwangi))
+    - Most leaders, knowingly or not, optimize for likability
+    - Optimize for truth and outcomes instead
