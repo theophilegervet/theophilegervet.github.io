@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Released [Pixtral 12B](https://arxiv.org/pdf/2410.07073), best Apache 2.0 model, beats Llama-3.2 90B while being 7x smaller
+Released [Pixtral 12B](https://arxiv.org/pdf/2410.07073), best Apache 2.0 model at the time
