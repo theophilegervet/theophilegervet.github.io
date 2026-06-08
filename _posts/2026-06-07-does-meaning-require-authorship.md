@@ -33,3 +33,7 @@ The fear is not that we'll run out of things to do. It's that what we do will st
 So the question is: if AI becomes better than us at nearly everything, can humans still be authors of history, or only its audience?
 
 And if we become the audience, will that be enough?
+
+> "It is quite conceivable that the modern age—which began with such an unprecedented and promising outburst of human activity—may end in the deadliest, most sterile passivity history has ever known."
+>
+> — Hannah Arendt, *The Human Condition* (1958)
