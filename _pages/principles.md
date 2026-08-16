@@ -17,6 +17,12 @@ A collection of principles that resonate with me, in case you find it useful.
     - Steve Jobs: "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.", "You should never start a company with the goal of getting rich. Your goal should be making something you believe in and making a company that will last."
     - [David Deutsch](https://theophilegervet.github.io/book_notes/the-beginning-of-infinity/): "The ability to create and use explanatory knowledge gives people a power to transform nature which is ultimately only by universal laws of physics. This is the cosmic significance of explanatory knowledge – and hence of people.", "If humanity fails at anything, it will be because of a failure to create knowledge."
     - I believe that creating knowledge is the primary driver of human progress, and we have the opportunity to dramatically accelerate this process with AI in our lifetimes. What do you believe in?
+- **Optimize for a satisfying life, not continuous happiness.**
+    - [Daniel Kahneman](https://conversationswithtyler.com/episodes/daniel-kahneman/): "People don't maximize happiness [...] They actually want to maximize their satisfaction with themselves and with their lives. And that leads in completely different directions than the maximization of happiness."
+    - Viktor Frankl: "Success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's personal dedication to a cause greater than oneself."
+    - [Patrick Collison](https://www.startuparchive.org/p/patrick-collison-on-prioritizing-fulfillment-over-happiness): "The better utility function is fulfillment." On building Stripe: "I wasn't especially happy per se, but it did feel fulfilling."
+    - Marc Andreessen: "Satisfaction is a deeper thing which is like having found a purpose and fulfilling it... that I can look back and say: 'Wow. That was hard, but it was worth it.'"
+    - Joy is a mood. Satisfaction is a verdict on how you spent your life. Aim at the second and the first will visit on its own.
 
 ## The how
 
@@ -85,6 +91,9 @@ A collection of principles that resonate with me, in case you find it useful.
 - **Make yourself accountable to the highest standards.**
     - Don’t settle for anything less than amazing work for yourself and for others.
     - Steve Jobs: "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected."
+- **Seek harmony, not balance.**
+    - Jeff Bezos: "I prefer the word 'harmony' to the word 'balance' because balance tends to imply a strict tradeoff. If I'm happy at work, I'm better at home. And if I'm happy at home, I come into work more energized. It actually is a circle; it's not a balance."
+    - Marc Andreessen: "I am much happier and more satisfied when I'm fully committed to something. So I'm very much in favor of imbalance."
 
 ## How to think about startups
 
