@@ -3,7 +3,7 @@ layout: post
 title: Radical Candor
 date: 2026-09-20
 description: Kim Scott
-img: assets/books/kim-scott.jpg
+img: assets/books/radical-candor.jpg
 importance: 5
 category: leadership
 giscus_comments: false
