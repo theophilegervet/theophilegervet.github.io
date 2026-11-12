@@ -5,7 +5,7 @@ title: book notes
 description: 
 nav: true
 nav_order: 3
-display_categories: [personal philosophy, nature of progress & technology, technology history, philosophy, biography, leadership, psychology, technology opinion, geopolitics, manufacturing & supply chain, strategy]
+display_categories: [personal philosophy, nature of progress & technology, technology history, biography, philosophy, leadership, psychology, technology opinion, geopolitics, manufacturing & supply chain, strategy]
 horizontal: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: The Sciences of the Artificial
 date: 2026-11-07
 description: Herbert Simon
-img: assets/books/the-sciences-of-the-artificial.png
+img: assets/books/the-sciences-of-the-artificial.jpg
 importance: 3
 category: nature of progress & technology
 giscus_comments: false
